@@ -3,8 +3,8 @@ package com.pengx.android.extensions.sample
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
-import com.pengx.android.extension.ktx.mainThread
 import com.pengx.android.extension.ktx.io
+import com.pengx.android.extension.ktx.mainThread
 import io.reactivex.Observable
 import java.util.concurrent.TimeUnit
 
